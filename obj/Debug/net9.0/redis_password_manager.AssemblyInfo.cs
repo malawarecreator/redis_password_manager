@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("redis_password_manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd7b535cf868de76ca3740fd758437b28446db6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c464ced94aa3bec88c5e486effa5dac3b1256425")]
 [assembly: System.Reflection.AssemblyProductAttribute("redis_password_manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("redis_password_manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 using NRedisStack;
 using NRedisStack.RedisStackCommands;
 using StackExchange.Redis;
@@ -31,7 +31,7 @@ class Program
         {
             var User = new User();
             User.setcreds(id, passwd);
-            User.publish();
+            User.publish(true, ["ben", "dover"]);
             Console.WriteLine("finished");
         }
 
